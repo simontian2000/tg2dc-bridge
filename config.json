@@ -1,0 +1,10 @@
+
+{
+  "poll": {
+    "max_messages_per_channel": 100,
+    "initial_sync_last_n": 0,
+    "max_file_mb": 8,
+    "max_album_total_mb": 20
+  },
+  "sources": []
+}
