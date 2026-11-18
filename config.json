@@ -6,5 +6,12 @@
     "max_file_mb": 8,
     "max_album_total_mb": 20
   },
-  "sources": []
+  "sources": [
+    {
+      "name": "吃瓜bot",
+      "telegram": "https://t.me/furryboringnews",
+      "webhook_secret": "DISCORD_WEBHOOK_CHIGUA",
+      "enabled": true
+    }
+  ]
 }
