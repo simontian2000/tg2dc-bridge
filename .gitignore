@@ -1,0 +1,11 @@
+
+__pycache__/
+*.py[cod]
+*.session
+*.session-journal
+.env
+.venv/
+venv/
+data/state.json
+data/state.json.tmp
+.DS_Store
